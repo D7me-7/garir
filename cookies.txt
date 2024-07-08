@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jarir.com	TRUE	/	FALSE	1999999999	__cf_bm	za35aqeae.Bd4_WQ0NhLnnqS0OM2gT9gxzsF91LxMmQ-1720419942-1.0.1.1-rA3Ua3yiIpKe8mSziX.iaLWCOPJhqjab9nejIC.6bv90rZcq5vCwY7BAlteIsqBGq8k6nLjo_Y90vhy1PJtj2w
+www.jarir.com	TRUE	/	FALSE	1999999999	SameSite	None
+
